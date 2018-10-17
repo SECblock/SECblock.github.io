@@ -28,7 +28,6 @@
   {% include repository.html name="secjs-vote" %}
   {% include repository.html name="secjs-datahandler" %}
   {% include repository.html name="secjs-logger" %}
-  {% include repository.html name="secjs-randomdatagenerator" %}
 </div>
 
 <div class="repo-group">
